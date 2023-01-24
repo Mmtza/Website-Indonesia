@@ -1,0 +1,12 @@
+body {
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.jumbotron{
+    padding-top: 5rem;
+}
+
+section{
+    padding-top: 5rem;
+}
